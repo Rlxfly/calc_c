@@ -1,0 +1,6 @@
+D:\25.11.6408\calc\CalcMachine\bin\Debug\CalcMachine.dll
+D:\25.11.6408\calc\CalcMachine\bin\Debug\CalcMachine.pdb
+D:\25.11.6408\calc\CalcMachine\obj\Debug\CalcMachine.csproj.AssemblyReference.cache
+D:\25.11.6408\calc\CalcMachine\obj\Debug\CalcMachine.csproj.CoreCompileInputs.cache
+D:\25.11.6408\calc\CalcMachine\obj\Debug\CalcMachine.dll
+D:\25.11.6408\calc\CalcMachine\obj\Debug\CalcMachine.pdb
