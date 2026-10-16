@@ -1,0 +1,10 @@
+D:\25.11.6408\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+D:\25.11.6408\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+D:\25.11.6408\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.AssemblyReference.cache
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Form1.resources
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+D:\25.11.6408\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
