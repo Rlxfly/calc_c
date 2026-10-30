@@ -1,0 +1,10 @@
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\bin\Debug\CalculatorMachine.dll
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\bin\Debug\nunit.framework.dll
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\bin\Debug\CalculatorMachine.pdb
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.AssemblyReference.cache
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\obj\Debug\Calculat.255F6EBC.Up2Date
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+D:\25.11.6408\SoftwareTesting\Testing\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb
